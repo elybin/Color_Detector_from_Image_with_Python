@@ -8,6 +8,8 @@ Witten by **Khakim Assidiqi** on 30 september 2018
 3. OpenCV : OpenCV is a library of programming functions mainly aimed at real-time computer vision. (pip install opencv-python) 
 
 # Example Result
+![SS](https://raw.githubusercontent.com/elybin/Color_Detector_from_Image_with_Python/master/screenshot.png)
+
 ```
 root@her:~/Color_Detector_from_Image_with_Python# python color.py -i test7.png 
 color detected: merah di (x=42.8588485718, y=51.12059021)
