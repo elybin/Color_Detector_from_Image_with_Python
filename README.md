@@ -1,6 +1,6 @@
 # Color detector from images using Python and OpenCV2
 
-Witten by **Khakim Assidiqi** on 30 september 2018 
+Written by **Khakim Assidiqi** on 30 september 2018 
 
 # Library Used
 1. NumPy : adding support for large, multi-dimensional arrays and matrices. (pip install numpy)
