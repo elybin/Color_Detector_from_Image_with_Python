@@ -86,7 +86,7 @@ hsv_boundaries = [
 
 # 3. Ambil nama file dari argumen -i 
 ap = argparse.ArgumentParser()
-ap.add_argument("-i", help = "path to the image (ex: test7.jpg)")
+ap.add_argument("-i","--image", help = "path to the image (ex: test7.jpg)")
 args = vars(ap.parse_args())
 
 # 4. Buka gambar dan ubah ukuran 
@@ -146,5 +146,5 @@ for (lower, upper, name) in hsv_boundaries:
 	cv2.waitKey(100)
 
 #pause
-cv2.waitKey(2000)
+cv2.waitKey(2000) #change this if you want to see result more longer 
 
