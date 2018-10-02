@@ -7,6 +7,9 @@ Written by **Khakim Assidiqi** on 30 september 2018
 2. Argparse : Ggenerates help and usage messages and issues errors when users give the program invalid arguments. (pip install argparse)
 3. OpenCV : OpenCV is a library of programming functions mainly aimed at real-time computer vision. (pip install opencv-python) 
 
+# Commentary 
+you can modify this script to detect color from a video
+
 # Example Result
 
 ```
