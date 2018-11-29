@@ -3,8 +3,8 @@
 Written by **Khakim Assidiqi** on 30 september 2018 
 
 # Library Used
-1. NumPy : adding support for large, multi-dimensional arrays and matrices. (pip install numpy)
-2. Argparse : Ggenerates help and usage messages and issues errors when users give the program invalid arguments. (pip install argparse)
+1. NumPy : Adding support for large, multi-dimensional arrays and matrices. (pip install numpy)
+2. Argparse : Generates help and usage messages and issues errors when users give the program invalid arguments. (pip install argparse)
 3. OpenCV : OpenCV is a library of programming functions mainly aimed at real-time computer vision. (pip install opencv-python) 
 
 # Commentary 
